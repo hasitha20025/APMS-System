@@ -1,0 +1,15 @@
+.success {
+     color: #260bf3;
+     padding: 2%;
+     font-weight: 800;
+     font-size: large;
+
+
+
+}
+
+.erro {
+     color: #e40e0e;
+     font-weight: 800;
+     font-size: large;
+}
